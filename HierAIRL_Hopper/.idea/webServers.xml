@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="49ff7050-031e-4e74-a494-fd27dce0f402" name="Wenqi Machine">
+        <fileTransfer rootFolder="/home/wenqi/Proj_2_HAIRL/Hier AIRL" accessType="SFTP" host="128.46.202.144" port="22" sshConfigId="7afa4f1b-a06f-4378-b14d-e6555afe6f33" sshConfig="wenqi@128.46.202.144:22 agent" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
