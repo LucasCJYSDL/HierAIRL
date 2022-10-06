@@ -1,5 +1,7 @@
 # Hierarchical Adversarial Inverse Reinforcement Learning for Robotic Manipulation
 
+## The paper is available at: [https://arxiv.org/abs/2210.01969](https://arxiv.org/abs/2210.01969)
+
 ## How to config the environments:
 - on Ubuntu 18.04
 - python 3.6
