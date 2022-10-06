@@ -1,4 +1,4 @@
-# Hierarchical Adversarial Inverse Reinforcement Learning for Robotic Manipulation
+# Hierarchical Adversarial Inverse Reinforcement Learning
 
 ## The paper is available at: [https://arxiv.org/abs/2210.01969](https://arxiv.org/abs/2210.01969)
 
