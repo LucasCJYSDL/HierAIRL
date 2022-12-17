@@ -1,5 +1,14 @@
 # Hierarchical Adversarial Inverse Reinforcement Learning
 
+Codebase for my paper: Hierarchical Adversarial Inverse Reinforcement Learning
+
+Language: Python
+
+The following parts are included:
+- Benchmarks built with Mujoco, including Hopper, Walker, Ant box-pushing, and Point maze.
+- An implementation of the hierarchical imitation learning (HIL) algorithm proposed in our paper.
+- Implementations of the SOTA IL and HIL algorithms as baselines, including GAIL, AIRL, Option-GAIL, Directed-Info GAIL.
+
 ## The paper is available at: [https://arxiv.org/abs/2210.01969](https://arxiv.org/abs/2210.01969)
 
 ## How to config the environments:
