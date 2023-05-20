@@ -10,6 +10,20 @@ The following parts are included:
 - Implementations of the SOTA IL and HIL algorithms as baselines, including GAIL, AIRL, Option-GAIL, Directed-Info GAIL.
 
 ## The paper is available at: [https://arxiv.org/abs/2210.01969](https://arxiv.org/abs/2210.01969)
+Please cite this paper:
+```bash
+@article{DBLP:journals/corr/abs-2210-01969,
+  author       = {Jiayu Chen and
+                  Tian Lan and
+                  Vaneet Aggarwal},
+  title        = {Hierarchical Adversarial Inverse Reinforcement Learning},
+  journal      = {CoRR},
+  volume       = {abs/2210.01969},
+  year         = {2022},
+  url          = {https://doi.org/10.48550/arXiv.2210.01969},
+  doi          = {10.48550/arXiv.2210.01969}
+}
+```
 
 ## How to config the environments:
 - on Ubuntu 18.04
